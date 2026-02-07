@@ -1,0 +1,10 @@
+.first-bg-image{
+  cursor:pointer;
+  position:relative;
+}
+
+.background-image{
+  width:1450px;
+  object-fit:cover;
+  margin-left:-10px;
+}
